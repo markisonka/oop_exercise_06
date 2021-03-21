@@ -1,0 +1,7 @@
+: 1
+name: oop_exercise_06
+version: 0.1.0
+summary: oop_exercise_06 C++ executable
+license: free
+depends: * build2 >= 0.12.0
+depends: * bpkg >= 0.12.0

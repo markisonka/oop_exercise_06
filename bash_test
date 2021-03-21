@@ -1,0 +1,3 @@
+#!/bin/bash
+test="cmake*debug"
+ls -a ${test}

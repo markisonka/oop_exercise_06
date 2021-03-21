@@ -1,0 +1,8 @@
+Trapeze p1:1 1, p2:1 1, p3:1 1, p4:1 1
+Trapeze p1:2 2, p2:2 2, p3:2 2, p4:2 2
+Trapeze p1:3 3, p2:3 3, p3:3 3, p4:3 3
+Trapeze p1:4 4, p2:4 4, p3:4 4, p4:4 4
+0
+Trapeze p1:2 2, p2:2 2, p3:2 2, p4:2 2 Trapeze p1:4 4, p2:4 4, p3:4 4, p4:4 4 Trapeze p1:3 3, p2:3 3, p3:3 3, p4:3 3 Trapeze p1:1 1, p2:1 1, p3:1 1, p4:1 1 
+Incorrect command
+Trapeze p1:4 4, p2:4 4, p3:4 4, p4:4 4 Trapeze p1:1 1, p2:1 1, p3:1 1, p4:1 1 
